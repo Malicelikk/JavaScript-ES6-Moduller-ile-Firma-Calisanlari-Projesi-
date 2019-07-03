@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Mali Çelik",
+      "department": "Software",
+      "salary": 5000,
+      "id": 2
+    },
+    {
+      "name": "Emre Çelik",
+      "department": "Turizm",
+      "salary": 9000,
+      "id": 4
+    },
+    {
+      "name": "Demet Çelik",
+      "department": "Turizm",
+      "salary": 4500,
+      "id": 5
+    }
+  ]
+}
